@@ -1,1 +1,1 @@
-# linux
+About bash screept
