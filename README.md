@@ -1,1 +1,1 @@
-# linux
+# about daemon
